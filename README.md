@@ -12,5 +12,6 @@ React Native - expo altyapısıyla geliştirilmiş olup iOS ve Andriod uyumludur
 
 ## Warning
 Not updated for latest expo
-###
-- asdadshaohdsoahdoahdohadıasdsdsa
+
+### Legal acknowledge
+- Orjinal sürüm ile bir bağlantısı yoktur.
