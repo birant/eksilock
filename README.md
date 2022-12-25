@@ -10,5 +10,10 @@ React Native - expo altyapısıyla geliştirilmiş olup iOS ve Andriod uyumludur
 ## Running tests
 - Run `yarn test`
 
+<<<<<<< HEAD
 ## Warning
 Not updated for latest expo
+=======
+###
+- asdadshaohdsoahdoahdohadıasdsdsa
+>>>>>>> 935b40c (readme dosyası degisti)
